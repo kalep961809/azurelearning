@@ -1,0 +1,9 @@
+{
+	"name": "df-azure-project-kari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e359410a-8854-45e1-a798-a4755a5395af",
+		"tenantId": "da170412-3575-4adb-be93-33602e1797bc"
+	}
+}
